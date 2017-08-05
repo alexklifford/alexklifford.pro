@@ -1,0 +1,16 @@
+ErrorDocument 403 /404.html
+ErrorDocument 404 /404.html
+
+DirectoryIndex page1293520.html
+
+RewriteEngine On
+
+RewriteRule ^straight$ page1303308.html [NC]
+RewriteRule ^straight/$ page1303308.html [NC]
+
+RewriteRule ^mobi$ page1315536.html [NC]
+RewriteRule ^mobi/$ page1315536.html [NC]
+
+RewriteRule ^instagram$ page1316328.html [NC]
+RewriteRule ^instagram/$ page1316328.html [NC]
+

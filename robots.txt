@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow:
+Sitemap: http://alexklifford.pro/sitemap.xml
+Host: alexklifford.pro
